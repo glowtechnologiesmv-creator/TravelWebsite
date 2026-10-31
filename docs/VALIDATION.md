@@ -24,7 +24,7 @@ The screenshot filenames deliberately identify layout-only review. They are not 
 
 The initial sandbox rejected package-registry socket access. Installation succeeded through approved execution permissions. Turbopack's internal process/port binding failed; the supported webpack option builds successfully. No checks, TLS verification, or assertions were disabled.
 
-Read-only Git access also succeeded; the remote has no `main` branch reference yet. The implementation remains as reviewable local files and has not been committed or pushed.
+Read-only Git access succeeded. The repository was initially empty; the validated implementation was subsequently committed and uploaded to the GitHub `main` branch for deployment.
 
 An early test run was interrupted by development-server reloads during formatting. A later form assertion matched Next.js’s route-announcer alert as well as the form error; it was scoped to the main content. The original aggregate 55-navigation viewport check exceeded its timeout; it was split into five independent viewport cases, retaining every route and assertion. Production-server runs avoid development reload interruptions.
 
