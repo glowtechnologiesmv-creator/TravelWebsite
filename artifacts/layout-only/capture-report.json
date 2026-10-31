@@ -1,0 +1,226 @@
+{
+  "capturedAt": "2026-10-31T10:22:04.584Z",
+  "note": "Not client-ready if photographs are unavailable. Read per-route image counts.",
+  "results": [
+    {
+      "route": "/",
+      "device": "desktop",
+      "width": 1440,
+      "images": {
+        "total": 22,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/stays",
+      "device": "desktop",
+      "width": 1440,
+      "images": {
+        "total": 7,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/stays/sunrise-water-villa",
+      "device": "desktop",
+      "width": 1440,
+      "images": {
+        "total": 8,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/experiences",
+      "device": "desktop",
+      "width": 1440,
+      "images": {
+        "total": 9,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/experiences/snorkeling",
+      "device": "desktop",
+      "width": 1440,
+      "images": {
+        "total": 6,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/destinations",
+      "device": "desktop",
+      "width": 1440,
+      "images": {
+        "total": 7,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/destinations/maafushi",
+      "device": "desktop",
+      "width": 1440,
+      "images": {
+        "total": 9,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/travel-guide",
+      "device": "desktop",
+      "width": 1440,
+      "images": {
+        "total": 8,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/travel-guide/best-time-to-visit",
+      "device": "desktop",
+      "width": 1440,
+      "images": {
+        "total": 6,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "device": "desktop",
+      "width": 1440,
+      "images": {
+        "total": 2,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/plan-your-trip",
+      "device": "desktop",
+      "width": 1440,
+      "images": {
+        "total": 1,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/",
+      "device": "mobile",
+      "width": 390,
+      "images": {
+        "total": 22,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/stays",
+      "device": "mobile",
+      "width": 390,
+      "images": {
+        "total": 7,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/stays/sunrise-water-villa",
+      "device": "mobile",
+      "width": 390,
+      "images": {
+        "total": 8,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/experiences",
+      "device": "mobile",
+      "width": 390,
+      "images": {
+        "total": 9,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/experiences/snorkeling",
+      "device": "mobile",
+      "width": 390,
+      "images": {
+        "total": 6,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/destinations",
+      "device": "mobile",
+      "width": 390,
+      "images": {
+        "total": 7,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/destinations/maafushi",
+      "device": "mobile",
+      "width": 390,
+      "images": {
+        "total": 9,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/travel-guide",
+      "device": "mobile",
+      "width": 390,
+      "images": {
+        "total": 8,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/travel-guide/best-time-to-visit",
+      "device": "mobile",
+      "width": 390,
+      "images": {
+        "total": 6,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/about",
+      "device": "mobile",
+      "width": 390,
+      "images": {
+        "total": 2,
+        "loaded": 0
+      },
+      "overflow": false
+    },
+    {
+      "route": "/plan-your-trip",
+      "device": "mobile",
+      "width": 390,
+      "images": {
+        "total": 1,
+        "loaded": 0
+      },
+      "overflow": false
+    }
+  ]
+}
